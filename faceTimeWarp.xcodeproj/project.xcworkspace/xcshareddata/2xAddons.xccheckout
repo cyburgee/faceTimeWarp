@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1D52A43F-5A2B-4DAB-ABCD-1F379C9530AA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>2xAddons</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D21D2108-A97E-4B62-AFE5-2C3CCB45C69F</key>
+		<string>https://github/cyburgee/Sky.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>2xAddons/2xAddons.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D21D2108-A97E-4B62-AFE5-2C3CCB45C69F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github/cyburgee/Sky.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D21D2108-A97E-4B62-AFE5-2C3CCB45C69F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D21D2108-A97E-4B62-AFE5-2C3CCB45C69F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>myApps</string>
+		</dict>
+	</array>
+</dict>
+</plist>
